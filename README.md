@@ -1,3 +1,2 @@
-# NLPTest
 
 Take Home Exam
